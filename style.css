@@ -1,0 +1,22 @@
+#navbar {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+#navbar a {
+  color: white;
+}
+
+#fold-1 {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  padding-top: 80px;
+}
+
+#sub-nav {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 60px;
+}
